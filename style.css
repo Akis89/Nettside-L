@@ -1,0 +1,76 @@
+body{
+  font-family: fantasy;
+  background-color: #724;
+}
+
+.BILDELOGO{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300PX;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  color: orange
+}
+
+p{
+text-align: center;
+color: black
+}
+
+.sitat1{
+  color: green;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 80px;
+}
+
+.sitat2{
+font-size: 30px;
+font-style; oblique;
+color: yellow;
+}
+
+
+.sitat3{
+  color: blue;
+  font-size: 50px;
+  font-style: normal;
+}
+
+
+
+.BildeAlek{
+  width: 300px;
+  border-radius: 70px;
+  border-color: black;
+  border-width: 10px;
+  border-style: dotted;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 130px;
+  margin-bottom: 30px;
+
+}
+
+ul{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-size: 80px;
+  color: red;
+
+}
